@@ -1,0 +1,12 @@
+Beige
+---
+HEX: #C0B8B5
+RGB: rgb(192,184,181)
+HSL: hsl(16.4,8%,73.1%)
+
+
+Blue
+---
+HEX: #04192E
+RGB: rgb(4,25,46)
+HSL: hsl(210,84%,9.8%)
